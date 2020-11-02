@@ -141,7 +141,7 @@ public final class UseCollection {
          */
     	long population = 0;
     	
-    	for(long l:continents.values()) {
+    	    	for(long l:continents.values()) {
     		population += l;
     	}
     	
